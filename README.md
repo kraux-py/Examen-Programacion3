@@ -12,3 +12,21 @@ Criterios generales
 Uso de Estilos (Bootstrap) (1p)
 • Interfaces claras (Usar menú o botones html, no se debe usar el botones
 - atrás y adelante → del navegador para desplazarnos en la aplicación)
+
+
+# Sistema de Gestión de Estudiantes
+
+Este es un sistema de gestión de estudiantes que permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre una base de datos de estudiantes.
+
+## Requisitos
+
+- PHP 7.4 o superior
+- MySQL
+- XAMPP (o cualquier otro servidor local)
+
+## Instalación
+
+1. Clona el repositorio en tu servidor local.
+
+```sh
+git clone https://github.com/kraux-py/Examen-Programacion3
